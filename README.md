@@ -6,4 +6,4 @@
 
 This is second edit.
 
-And Three.
+And Three. Ещё раз.
